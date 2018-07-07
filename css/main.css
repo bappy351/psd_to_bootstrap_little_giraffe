@@ -197,6 +197,7 @@ header {
     border: 2px dashed #f1eaea;
     margin: 30px auto;
     margin-bottom: 50px;
+    height: 0;
 
 }
 
@@ -443,7 +444,6 @@ header {
 /*section seven starts*/
 .twitter{
     padding: 100px 0;
-    background-color: white;
 }
 
 .twtter_img {
@@ -581,6 +581,7 @@ header {
     border: 2px dashed white;
     margin-left: 0px;
     width: 220px;
+    height: 0;
 }
 
 .date_event {
@@ -636,6 +637,7 @@ header {
 .recent_content hr {
     border: 2px dashed #1ec0ff;
     margin: 0;
+    height: 0;
 }
 
 .recent_content ul {
@@ -687,7 +689,7 @@ header {
 /*section twelve starts*/
 .contact_section{
     background-color: white;
-    margin-bottom: 140px;
+    padding-bottom: 140px;
 }
 .contact img {
     padding-bottom: 30px;
@@ -759,7 +761,7 @@ header {
 
 .footer {
     background-color: #ffd338;
-    padding: 25px 0;
+    padding: 15px 0;
 }
 
 .footer_nav{
