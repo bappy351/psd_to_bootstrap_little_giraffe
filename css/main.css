@@ -121,6 +121,7 @@ header {
     color: white !important;
     padding: 0 18px !important;
     border-radius: 15px;
+    font-weight: bold;
 
 }
 
@@ -194,7 +195,7 @@ header {
 
 .common_title hr {
     width: 240px;
-    border: 2px dashed #f1eaea;
+    border: 2px dashed white;
     margin: 30px auto;
     margin-bottom: 50px;
     height: 0;
@@ -296,6 +297,10 @@ header {
 .custom_card {
     border: none;
     background: transparent;
+}
+
+.card_text{
+   background: white;
 }
 
 .card_text h4 {
