@@ -53,6 +53,10 @@
     .custom_card {
         margin-bottom: 15px;
     }
+    
+    .custom_header {
+        font-size: 13px;
+    }
 
     .card-img-top2 {
         display: none;
@@ -141,6 +145,7 @@
 
     .recent_content h2 {
         margin-bottom: 0;
+        font-size: 16px;
     }
 
     .sm_display {
@@ -169,6 +174,7 @@
     
     .contact_section {
         margin-bottom: 0;
+        padding-bottom: 0;
     }
     
     .col_paddig{
@@ -337,6 +343,7 @@
 
     .recent_content h2 {
         margin-bottom: 0;
+        font-size: 16px;
     }
 
     .sm_display {
@@ -365,6 +372,7 @@
 
     .contact_section {
         margin-bottom: 0;
+        padding-bottom: 0;
     }
     
     .col_paddig{
