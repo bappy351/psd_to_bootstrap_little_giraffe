@@ -1,0 +1,532 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+
+@media (max-width: 575.98px) {
+
+    .custom_nav ul li a {
+        font-size: 20px;
+    }
+
+    .banner_text h1 {
+        font-size: 45px;
+    }
+
+    .banner_text {
+        font-size: 25px;
+    }
+
+    .kid_content {
+        text-align: center;
+    }
+
+    .kid_content hr {
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .kid_content h1 {
+        font-size: 21px;
+    }
+
+    .common_title h1 {
+        font-size: 25px;
+    }
+
+    .get_to_center {
+        margin: 0 auto;
+    }
+
+    .arrow_block {
+        display: none;
+    }
+
+    .custom_card_footer {
+        font-size: 11px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .courses2 h1 {
+        font-size: 19px;
+        margin-bottom: 20px;
+    }
+
+    .custom_card {
+        margin-bottom: 15px;
+    }
+
+    .card-img-top2 {
+        display: none;
+    }
+
+    .custom_profile {
+        top: -7px;
+    }
+
+    .common_title hr {
+        width: 150px;
+        margin: 15px auto;
+        margin-bottom: 15px;
+    }
+
+    .view_more {
+        padding-top: 0px;
+        width: 100px;
+    }
+
+    .twitter {
+        padding: 50px 0;
+    }
+
+    .teacher_info h3 {
+        margin: 0 auto;
+
+    }
+
+    .teacher_info {
+        text-align: center;
+    }
+
+    .teachers_single {
+        padding-bottom: 45px;
+    }
+
+    .teacher_info p {
+        font-size: 9px;
+    }
+
+    .header_event {
+        text-align: center;
+    }
+
+    .header_event hr {
+        margin: 0 auto;
+    }
+
+    .date_event {
+        padding-top: 0;
+    }
+
+    .event_detail h1 {
+        font-size: 15px;
+    }
+
+    .event_detail ul li {
+        font-size: 11px;
+    }
+
+    .event_detail p {
+        font-size: 11px;
+    }
+
+    .col_padding {
+        padding-bottom: 25px;
+    }
+
+    .recent_content h1 {
+        font-size: 19px;
+        text-align: center;
+    }
+
+    .recent_content p {
+        font-size: 11px;
+    }
+
+    .recent_img_paddding {
+        padding-bottom: 15px;
+    }
+
+    .footer_cloud {
+        min-height: 80px;
+    }
+
+    .recent_content h2 {
+        margin-bottom: 0;
+    }
+
+    .sm_display {
+        display: none;
+    }
+
+    .copyright p {
+        text-align: center;
+    }
+
+    .padding_insta {
+        padding-top: 20px;
+    }
+
+    .col_paddig {
+        padding-top: 40px;
+    }
+
+    .contact_email ul li {
+        margin-top: 0;
+    }
+
+    .contact_email {
+        margin-bottom: 40px;
+    }
+    
+    .contact_section {
+        margin-bottom: 0;
+    }
+    
+    .col_paddig{
+        margin: auto !important;
+    }
+
+
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .custom_nav ul li a {
+        font-size: 20px;
+    }
+
+    .banner_text h1 {
+        font-size: 45px;
+    }
+
+    .banner_text {
+        font-size: 25px;
+    }
+
+    .kid_content {
+        text-align: center;
+    }
+
+    .kid_content hr {
+        margin: 0 auto;
+        margin-bottom: 20px;
+
+    }
+
+    .kid_content h1 {
+        font-size: 25px;
+    }
+
+    .common_title h1 {
+        font-size: 25px;
+    }
+
+    .get_to_center {
+        margin: 0 auto;
+    }
+
+    .arrow_block {
+        display: none;
+    }
+
+    .courses {
+        padding: 45px 0px;
+    }
+
+    .courses2 h1 {
+        margin: 25px;
+    }
+
+    .button_block {
+        margin-top: 0px;
+    }
+
+    .custom_card {
+        margin-bottom: 40px;
+    }
+
+    .card_text h4 {
+        font-size: 20px;
+
+    }
+
+    .card_text2 h4 {
+        font-size: 15px;
+
+    }
+
+    .courses2 h1 {
+        font-size: 25px;
+    }
+
+    .custom_card_footer {
+        font-size: 11px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .moment_wrapper {
+        padding: 25px 0;
+    }
+
+    .moment_wrapper2 {
+        padding: 0px;
+    }
+
+    .view_more {
+        padding-top: 20px;
+        width: 100px;
+    }
+
+    .common_title hr {
+        margin: 15px auto;
+        margin-bottom: 40px;
+    }
+
+    .twitter {
+        padding: 50px 0;
+    }
+
+    .teacher_info h3 {
+        margin: 0 auto;
+
+    }
+
+    .teacher_info {
+        text-align: center;
+    }
+
+    .teachers_single {
+        padding-bottom: 45px;
+    }
+
+    .header_event {
+        padding-bottom: 0px;
+        padding-top: 35px;
+    }
+
+    .header_event h1 {
+        text-align: center;
+    }
+
+    .recent_content h1 {
+        text-align: center;
+    }
+
+    .footer_cloud {
+        min-height: 100px;
+    }
+
+    .recent_img_paddding {
+        padding-bottom: 15px;
+    }
+
+    .recent_content h2 {
+        margin-bottom: 0;
+    }
+
+    .sm_display {
+        display: none;
+    }
+
+    .copyright p {
+        text-align: center;
+    }
+
+    .padding_insta {
+        padding-top: 20px;
+    }
+
+    .col_paddig {
+        padding-top: 40px;
+    }
+
+    .contact_email ul li {
+        margin-top: 0;
+    }
+
+    .contact_email {
+        margin-bottom: 40px;
+    }
+
+    .contact_section {
+        margin-bottom: 0;
+    }
+    
+    .col_paddig{
+        margin: auto !important;
+    }
+
+
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .custom_nav ul li a {
+        font-size: 20px;
+    }
+
+    .banner_text h1 {
+        font-size: 45px;
+    }
+
+    .banner_text {
+        font-size: 25px;
+    }
+    .kid_content {
+        text-align: center;
+    }
+
+    .kid_content hr {
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .kid_content h1 {
+        font-size: 25px;
+    }
+
+    .common_title h1 {
+        font-size: 25px;
+    }
+
+    .arrow_block {
+        display: none;
+    }
+
+    .courses {
+        padding: 45px 0px;
+    }
+
+    .courses2 h1 {
+        margin: 25px;
+    }
+
+    .button_block {
+        margin-top: 0px;
+    }
+
+    .custom_card {
+        margin-bottom: 40px;
+    }
+
+    .view_more {
+        padding-top: 19px;
+        width: 150px;
+    }
+
+    .common_title hr {
+        margin: 15px auto;
+        margin-bottom: 40px;
+    }
+
+    .moment_wrapper {
+        padding: 60px 0;
+    }
+
+    .twitter {
+        padding: 50px 0;
+    }
+
+    .teacher_info h3 {
+        margin: 0 auto;
+
+    }
+
+    .teacher_info {
+        text-align: center;
+    }
+
+    .teachers_single {
+        padding-bottom: 45px;
+    }
+
+    .header_event {
+        padding-bottom: 0;
+        padding-top: 30px;
+    }
+
+    .header_event h1 {
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .footer_cloud {
+        min-height: 100px;
+    }
+
+    .recent_img_paddding {
+        padding-bottom: 15px;
+    }
+
+    .footer_nav ul li {
+        font-size: 12px;
+    }
+
+    .copyright p {
+        padding-top: 12px;
+        font-size: 13px;
+    }
+    
+    .col_paddig{
+        margin: auto !important;
+    }
+    
+    .contact_section{
+        margin-top: 50px;
+    }
+    
+    .contact_email {
+        margin-top: 30px;
+    }
+
+
+
+}
+
+
+/*Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .kid_content h1 {
+        margin: 0;
+        color: #323232;
+        font-weight: bold;
+        font-size: 23px;
+    }
+    .kid_content p {
+        font-size: 13px;
+        color: #323232;
+    }
+
+    .card_text h4 {
+        font-size: 16px !important;
+    }
+
+    .card_text2 h4 {
+        color: #323232;
+        font-weight: 600;
+        font-size: 17px;
+        letter-spacing: 2px;
+        font-family: 'Lato', sans-serif;
+    }
+
+    .footer_cloud {
+        min-height: 250px;
+    }
+
+    .footer_nav ul li {
+        font-size: 12px;
+    }
+
+    .copyright p {
+        padding-top: 12px;
+        font-size: 13px;
+    }
+    
+    
+
+
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) {
+    
+}
