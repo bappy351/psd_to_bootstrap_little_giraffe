@@ -155,7 +155,7 @@ header {
 }
 
 .banner_text {
-    margin: 260px 0;
+    margin: 290px 0;
     font-weight: bold;
     color: #00BCFB;
     font-size: 40px;
@@ -294,6 +294,7 @@ header {
 
 .custom_card {
     border: none;
+    background: transparent;
 }
 
 .card_text h4 {
@@ -331,6 +332,7 @@ header {
     padding-right: 30px;
     border-bottom-left-radius: 30px !important;
     border-bottom-right-radius: 30px !important;
+    background-color: white;
 }
 
 .button_block {
@@ -441,6 +443,7 @@ header {
 /*section seven starts*/
 .twitter{
     padding: 100px 0;
+    background-color: white;
 }
 
 .twtter_img {
