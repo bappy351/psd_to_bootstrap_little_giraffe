@@ -59,11 +59,7 @@
     }
 
     .card-img-top2 {
-        display: none;
-    }
-
-    .custom_profile {
-        top: -7px;
+/*         display: none; */
     }
 
     .common_title hr {
@@ -120,6 +116,10 @@
 
     .event_detail p {
         font-size: 11px;
+    }
+    
+    .moment_wrapper {
+        padding: 60px 0;
     }
 
     .col_padding {
