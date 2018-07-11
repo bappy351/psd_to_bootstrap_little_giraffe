@@ -303,6 +303,10 @@ header {
    background: white;
 }
 
+.card_text2{
+   background: white;
+}
+
 .card_text h4 {
     color: #1EC0FF;
     font-weight: 600;
