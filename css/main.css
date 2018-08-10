@@ -121,7 +121,6 @@ header {
     color: white !important;
     padding: 0 18px !important;
     border-radius: 15px;
-    font-weight: bold;
 
 }
 
@@ -156,7 +155,7 @@ header {
 }
 
 .banner_text {
-    margin: 290px 0;
+    margin: 260px 0;
     font-weight: bold;
     color: #00BCFB;
     font-size: 40px;
@@ -195,10 +194,9 @@ header {
 
 .common_title hr {
     width: 240px;
-    border: 2px dashed white;
+    border: 2px dashed #f1eaea;
     margin: 30px auto;
     margin-bottom: 50px;
-    height: 0;
 
 }
 
@@ -257,6 +255,7 @@ header {
     font-size: 24px;
     font-weight: 600;
     color: white;
+    margin-bottom: 0;
 }
 
 .diseration2 img {
@@ -296,15 +295,11 @@ header {
 
 .custom_card {
     border: none;
-    background: transparent;
+    background-color: transparent;
 }
 
-.card_text{
-   background: white;
-}
-
-.card_text2{
-   background: white;
+.card_text_bcg{
+    background: white;
 }
 
 .card_text h4 {
@@ -567,6 +562,12 @@ header {
     text-transform: uppercase;
 }
 
+.what_wd_did_component2 p {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
 /*section nine end*/
 
 
@@ -590,7 +591,6 @@ header {
     border: 2px dashed white;
     margin-left: 0px;
     width: 220px;
-    height: 0;
 }
 
 .date_event {
@@ -646,7 +646,6 @@ header {
 .recent_content hr {
     border: 2px dashed #1ec0ff;
     margin: 0;
-    height: 0;
 }
 
 .recent_content ul {
@@ -698,14 +697,14 @@ header {
 /*section twelve starts*/
 .contact_section{
     background-color: white;
-    padding-bottom: 140px;
+    margin-bottom: 140px;
 }
 .contact img {
     padding-bottom: 30px;
 }
 
 .contact p {
-    font-size: 14px;
+    font-size: 15px;
     color: #737373;
     font-family: 'Lato', sans-serif;
 }
@@ -724,6 +723,15 @@ header {
     font-size: 23px;
 }
 
+.recent_content2 h2{
+    color: #F85F5D;
+    border-bottom: 2px dashed #F85F5D; width: 255px;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+    letter-spacing: 3px;
+    font-size: 23px;
+}
+
 .instragram_pic {
     margin-bottom: 15px;
     padding-right: 0;
@@ -733,13 +741,13 @@ header {
     margin-bottom: 0;
     padding-top: 18px;
     padding-left: 15px;
-    font-size: 13px;
+    font-size: 15px;
     font-family: 'Lato', sans-serif;
     color: #4E4E4E;
 }
 
 .contact_email p {
-    font-size: 14px;
+    font-size: 15px;
     font-family: 'Lato', sans-serif;
     color: #4E4E4E;
     margin-bottom: 20px;
@@ -770,7 +778,7 @@ header {
 
 .footer {
     background-color: #ffd338;
-    padding: 15px 0;
+    padding: 25px 0;
 }
 
 .footer_nav{
@@ -794,6 +802,7 @@ header {
     color: white;
     text-align: right;
     padding-top: 7px;
+    word-spacing: 6px;
 }
 
 .contact3 ul li i {
