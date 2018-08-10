@@ -2,16 +2,79 @@
 
 @media (max-width: 575.98px) {
 
+    .col_width {
+        width: 60%;
+    }
     .custom_nav ul li a {
         font-size: 20px;
     }
 
+    #banner {
+        min-height: 292px;
+    }
+
     .banner_text h1 {
-        font-size: 45px;
+        font-size: 35px;
     }
 
     .banner_text {
-        font-size: 25px;
+        margin: 30px 0;
+
+    }
+
+    .col_padding_card {
+        padding: 15px;
+    }
+
+    .col_dis_width {
+        width: 50%;
+    }
+
+    .button_block {
+        margin-top: 15px;
+    }
+
+    .moment_wrapper {
+        padding: 17px;
+    }
+
+    .courses {
+        padding: 35px 0px;
+    }
+
+    .card_text p {
+        font-size: 16px;
+
+    }
+
+    .card_text2 p {
+        font-size: 16px;
+
+    }
+
+    .diseration2 p {
+        font-size: 18px;
+
+    }
+
+    .education {
+        padding: 50px 0;
+    }
+
+    .banner_arrow {
+        margin-top: 65px;
+    }
+
+    .banner_text {
+        font-size: 18px;
+    }
+
+    .col_arrow_width {
+        width: 50px;
+    }
+
+    .kid {
+        padding: 20px;
     }
 
     .kid_content {
@@ -28,7 +91,7 @@
     }
 
     .common_title h1 {
-        font-size: 19px;
+        font-size: 25px;
     }
 
     .get_to_center {
@@ -40,9 +103,13 @@
     }
 
     .custom_card_footer {
-        font-size: 11px;
+        font-size: 14px;
         padding-left: 10px;
         padding-right: 10px;
+    }
+
+    .teachers_wrapper {
+        padding-bottom: 15px;
     }
 
     .courses2 h1 {
@@ -53,13 +120,17 @@
     .custom_card {
         margin-bottom: 15px;
     }
-    
-    .custom_header {
-        font-size: 13px;
+
+    .col_padding_teacher {
+        padding: 0;
     }
 
     .card-img-top2 {
-/*         display: none; */
+        display: none;
+    }
+
+    .custom_profile {
+        top: -7px;
     }
 
     .common_title hr {
@@ -68,13 +139,17 @@
         margin-bottom: 15px;
     }
 
+    .what_we_did {
+        padding: 30px 0;
+    }
+
     .view_more {
         padding-top: 0px;
         width: 100px;
     }
 
     .twitter {
-        padding: 50px 0;
+        padding: 20px 0;
     }
 
     .teacher_info h3 {
@@ -86,16 +161,39 @@
         text-align: center;
     }
 
+    .teacher_info h1 {
+        font-size: 22px;
+    }
+
     .teachers_single {
         padding-bottom: 45px;
     }
 
     .teacher_info p {
-        font-size: 9px;
+        font-size: 13px;
+        margin: -5px 0px;
+
+    }
+
+    .what_wd_did_component {
+        margin-bottom: 30px;
+    }
+
+    .events_news {
+        padding-top: 10px;
+    }
+
+    .what_wd_did_component2 {
+        margin-bottom: 0px;
     }
 
     .header_event {
         text-align: center;
+        padding-bottom: 0px;
+    }
+
+    .social_links {
+        padding: 5px 0;
     }
 
     .header_event hr {
@@ -115,11 +213,7 @@
     }
 
     .event_detail p {
-        font-size: 11px;
-    }
-    
-    .moment_wrapper {
-        padding: 60px 0;
+        font-size: 14px;
     }
 
     .col_padding {
@@ -127,25 +221,32 @@
     }
 
     .recent_content h1 {
-        font-size: 19px;
+        font-size: 18px;
         text-align: center;
+        padding: 5px;
     }
 
     .recent_content p {
-        font-size: 11px;
+        font-size: 16px;
     }
 
     .recent_img_paddding {
-        padding-bottom: 15px;
+        padding-bottom: 25px;
     }
 
     .footer_cloud {
-        min-height: 80px;
+        min-height: 55px;
     }
 
     .recent_content h2 {
         margin-bottom: 0;
-        font-size: 16px;
+    }
+
+    .recent_content2 h2 {
+        width: 236px;
+        font-size: 18px;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
     }
 
     .sm_display {
@@ -161,7 +262,8 @@
     }
 
     .col_paddig {
-        padding-top: 40px;
+        padding-top: 30px;
+        margin: auto !important;
     }
 
     .contact_email ul li {
@@ -171,40 +273,10 @@
     .contact_email {
         margin-bottom: 40px;
     }
-    
+
     .contact_section {
         margin-bottom: 0;
-        padding-bottom: 0;
     }
-    
-    .col_paddig{
-        margin: auto !important;
-    }
-    
-    .banner_text p {
-        word-spacing: 0px;
-    }
-    
-    .kid {
-        padding: 30px 0;
-    }
-    
-    .kid-img{
-        display: none;
-    }
-    
-    .diseration2 p {
-        font-size: 16px;
-    }
-    
-    custom_header span:{
-        font-size: 14px;
-}
-    
-    
-
-
-
 
 }
 
@@ -221,17 +293,38 @@
 
     .banner_text {
         font-size: 25px;
+        margin: 110px 0;
     }
 
     .kid_content {
         text-align: center;
     }
 
+    .recent_content p {
+        font-size: 16px;
+    }
     .kid_content hr {
         margin: 0 auto;
         margin-bottom: 20px;
-
     }
+
+    .social_links {
+        padding: 0;
+    }
+
+    #banner {
+        min-height: 400px;
+    }
+
+
+    .col_dis_width {
+        width: 50%;
+    }
+
+    .teacher_info p {
+        font-size: 18px;
+    }
+
 
     .kid_content h1 {
         font-size: 25px;
@@ -280,13 +373,17 @@
     }
 
     .custom_card_footer {
-        font-size: 11px;
+        font-size: 16px;
         padding-left: 10px;
         padding-right: 10px;
     }
 
     .moment_wrapper {
-        padding: 25px 0;
+        padding: 40px 0;
+    }
+
+    .twitter_text {
+        font-size: 18px;
     }
 
     .moment_wrapper2 {
@@ -295,12 +392,15 @@
 
     .view_more {
         padding-top: 20px;
-        width: 100px;
+        width: 150px;
+    }
+    .card_text p {
+        font-size: 16px;
     }
 
     .common_title hr {
         margin: 15px auto;
-        margin-bottom: 40px;
+        margin-bottom: 20px;
     }
 
     .twitter {
@@ -343,11 +443,14 @@
 
     .recent_content h2 {
         margin-bottom: 0;
-        font-size: 16px;
     }
 
     .sm_display {
         display: none;
+    }
+
+    .diseration2_paddingtop {
+        padding-top: 30px;
     }
 
     .copyright p {
@@ -358,8 +461,13 @@
         padding-top: 20px;
     }
 
+    .education {
+        padding: 50px 0;
+    }
+
     .col_paddig {
         padding-top: 40px;
+        margin: auto !important;
     }
 
     .contact_email ul li {
@@ -372,15 +480,16 @@
 
     .contact_section {
         margin-bottom: 0;
-        padding-bottom: 0;
-    }
-    
-    .col_paddig{
-        margin: auto !important;
     }
 
+    .kid {
+        padding: 20px;
+    }
 
-
+    .kid_content p {
+        font-size: 20px;
+        color: #323232;
+    }
 
 }
 
@@ -394,6 +503,15 @@
     .banner_text h1 {
         font-size: 45px;
     }
+
+    .kid {
+        padding: 20px;
+    }
+
+    .col_dis_width {
+        width: 50%;
+    }
+
 
     .banner_text {
         font-size: 25px;
@@ -492,15 +610,15 @@
         padding-top: 12px;
         font-size: 13px;
     }
-    
-    .col_paddig{
+
+    .col_paddig {
         margin: auto !important;
     }
-    
-    .contact_section{
+
+    .contact_section {
         margin-top: 50px;
     }
-    
+
     .contact_email {
         margin-top: 30px;
     }
@@ -548,15 +666,9 @@
         padding-top: 12px;
         font-size: 13px;
     }
-    
-    
-
-
 
 }
 
 /*Extra large devices (large desktops, 1200px and up)*/
 
-@media (min-width: 1200px) {
-    
-}
+@media (min-width: 1200px) {}
