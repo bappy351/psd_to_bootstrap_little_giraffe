@@ -197,7 +197,7 @@
     }
 
     .header_event hr {
-        margin: 0 auto;
+        margin: 10px auto;
     }
 
     .date_event {
@@ -441,6 +441,10 @@
         padding-bottom: 15px;
     }
 
+    .header_event hr {
+        margin: 10px auto;
+    }
+    
     .recent_content h2 {
         margin-bottom: 0;
     }
