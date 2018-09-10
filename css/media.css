@@ -626,9 +626,10 @@
     .contact_email {
         margin-top: 30px;
     }
-
-
-
+    
+    .header_event hr {
+        margin: 10px auto;
+    }
 }
 
 
